@@ -1,4 +1,4 @@
-module github.com/fadymondy/github-cards
+module github.com/togo-framework/github-cards
 
 go 1.26.4
 

@@ -2,13 +2,13 @@
 
 Cached GitHub proxy: normalized repo stars/forks/language/topics/license/og-image and README with relative links absolutized, stale-on-error fallback. Powers open-source project cards.
 
-- **Source:** https://github.com/fadymondy/github-cards
+- **Source:** https://github.com/togo-framework/github-cards
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/github-cards
+togo install togo-framework/github-cards
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
